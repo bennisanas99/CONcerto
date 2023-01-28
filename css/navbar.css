@@ -21,6 +21,7 @@
   
   /* Add an active class to highlight the current page */
   .topnav a.active {
+    background-color: red;
   }
 
   span{
