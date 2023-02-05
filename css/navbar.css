@@ -4,8 +4,8 @@
     overflow: hidden;
     display: flex;
     justify-content: center;
-    border-bottom: 1px solid black;
-    padding-bottom: 10px;
+    /* border-bottom: 1px solid black;
+    padding-bottom: 10px; */
   }
   
   /* Style the links inside the navigation bar */
@@ -21,6 +21,8 @@
   
   /* Add an active class to highlight the current page */
   .topnav a.active {
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
   }
 
   span{
